@@ -1,0 +1,5 @@
+
+chromedrivermanager
+webdriver-manager
+selenium
+beautifulsoup4

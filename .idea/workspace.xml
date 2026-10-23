@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18b12f5a-58bc-474a-a868-ba78397b08b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/PythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ANGLE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APPRENTIT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CESAR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FARM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/SCRAPPER.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/controller/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/controller/scrapping_controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/models/depot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/models/produit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/scrapper/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/scrapper/amazon_scrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/scrapper/driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/scrapper/parsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/views/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/views/console_views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/views/export.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo/produit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo_stock_ivoire.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stok_ivoire.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algoav.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exemple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../right_by_division.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scrapping/scrapping alerte.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../the snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tp_application de reduction.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="3KyLKD1y9CN2xzXGrDKyaQPuL2d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PythonProject\IIT_TRAV\SCRAPPER\App\models" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SCRAPPER" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18b12f5a-58bc-474a-a868-ba78397b08b6" name="Changes" comment="" />
+      <created>1792524796106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792524796106</updated>
+    </task>
+    <servers />
+  </component>
+</project>
