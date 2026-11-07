@@ -1,0 +1,1 @@
+from .scrapping_controller import ScrappingController
